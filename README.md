@@ -1,1 +1,1 @@
-# login_system.b
+Prototipo del sistema de autentificacion
